@@ -1,2 +1,2 @@
 # tuts
-Repository for tutorials
+Repository for JENKINS tutorials
