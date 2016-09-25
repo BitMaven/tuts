@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hope...." >> /home/ubuntu/test.txt
+echo "hope1...." >> /home/ubuntu/test.txt
