@@ -1,2 +1,2 @@
 #!/bin/bash
-date >> /home/ubuntu/test.txt
+echo "hope...." >> /home/ubuntu/test.txt
