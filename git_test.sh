@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "cmon...." >> /home/ubuntu/test.txt
+date >> /home/ubuntu/test.txt
