@@ -1,2 +1,2 @@
 #!/bin/bash
-date >> /home/ubuntu/test.txt
+echo "super pissed right now" >> /home/ubuntu/test.txt
